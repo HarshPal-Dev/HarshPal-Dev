@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Munshi](https://github.com/HarshPal-Dev/Munshi_Frontend)
-
 - 🌱 I’m currently learning **Blockchain development**
 
 - 💬 Ask me about **react,express,node,mongoDb and DSA**
